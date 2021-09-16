@@ -584,21 +584,7 @@ section{
         width: 100%;
     }
 
-    #myBtn {
     
-        position: fixed; 
-        bottom: 6px;
-        right: 2px; 
-        z-index: 77; 
-        border: none; 
-        outline: none; 
-        background-color:var(--main-color);
-        color: white; 
-        cursor: pointer; 
-        padding: 10px; 
-        border-radius: 10px; 
-        font-size: 7px; 
-      }
 
 
 }
