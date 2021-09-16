@@ -606,17 +606,17 @@ section{
     #myBtn {
     
         position: fixed; 
-        bottom: 20px;
-        right: 20px; 
+        bottom: 14px;
+        right: 14px; 
         z-index: 88; 
         border: none; 
         outline: none; 
         background-color:var(--main-color);
         color: white; 
         cursor: pointer; 
-        padding: 15px; 
-        border-radius: 8px; 
-        font-size: 5px; 
+        padding: 10px; 
+        border-radius: 6px; 
+        font-size: 6px; 
       }
 
 }
