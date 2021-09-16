@@ -596,7 +596,7 @@ section{
         color: white; 
         cursor: pointer; 
         padding: 2px; 
-        border-radius: 2px; 
+        border-radius: 4px; 
         font-size: 6px; 
       }
 
